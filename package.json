@@ -1,0 +1,22 @@
+{
+  "name": "kalar",
+  "displayName": "kalar",
+  "description": "",
+  "publisher": "AbdirahimAhmed",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "kalar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kalar-color-theme.json"
+      }
+    ]
+  }
+}
